@@ -22,7 +22,7 @@ O trabalho foi desenvolvido no contexto acadêmico da Pós-Graduação em Inteli
 O notebook utiliza dois conjuntos de dados:
 
 - **Avaliações coletadas por formulário da turma:** avaliações de um conjunto de filmes são convertidas para o formato `user`, `item` e `rating`. Respostas ausentes ou notas iguais a zero são descartadas nessa preparação.
-- **Dados de filmes e avaliações:** arquivos CSV externos fornecem metadados dos filmes e avaliações identificadas por `userId`, `movieId` e `rating`.
+- **Dados de filmes e avaliações:** A prática utiliza exemplos de recomendação de filmes com o conjunto de dados **MovieLens**.
 
 As principais etapas de preparação incluem:
 
